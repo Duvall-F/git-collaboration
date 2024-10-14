@@ -3,3 +3,4 @@ gala
 honeycrisp
 fuji
 Empire
+Golden Delicious
